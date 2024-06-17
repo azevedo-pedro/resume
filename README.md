@@ -43,7 +43,7 @@ I am committed to staying ahead in the ever-evolving tech landscape. Regularly u
 
 **Tryvia**  
 *Software Engineer | React | .Net*  
-October 2023 - Present (9 months)  
+October 2023 - Present
 Rio de Janeiro, Brazil
 - Developing and maintaining web applications using React.
 - Collaborating with backend developers to integrate RESTful APIs developed in .NET.
@@ -53,7 +53,7 @@ Rio de Janeiro, Brazil
 
 **Softvaro**  
 *Frontend Engineer*  
-July 2022 - September 2023 (1 year 3 months)  
+July 2022 - September 2023
 Brazil
 - Front-end development consulting using Scrum framework.
 - Developed new features in a web application using ReactJS, ContextAPI, Sass, Jest, RTL, and Micro-Front for an airline company.
@@ -61,14 +61,14 @@ Brazil
 
 **Finbits**  
 *Frontend Engineer*  
-June 2021 - June 2022 (1 year 1 month)  
+June 2021 - June 2022
 São Paulo, Brazil
 - Developed web systems using Vite, React, Sass, Design System.
 - Coverage unit tests of web application components using React Testing Library and Cypress.
 
 **Midway**  
 *Mobile Developer | React-Native*  
-October 2020 - May 2021 (8 months)  
+October 2020 - May 2021
 São Paulo, Brazil
 - Developed React Native module in TypeScript for Riachuelo's e-commerce and Midway App.
 - Refactored screens for accessibility standards and documentation.
@@ -76,7 +76,7 @@ São Paulo, Brazil
 
 **Accenture Brasil**  
 *Javascript Developer | React | React-Native*  
-February 2020 - October 2020 (9 months)  
+February 2020 - October 2020
 Rio de Janeiro, Brazil
 - Front-end development consulting using Scrum framework.
 - Developed new features in a web application using ReactJS for a financial group.
@@ -85,14 +85,14 @@ Rio de Janeiro, Brazil
 
 **Bemobi**  
 *Frontend Developer*  
-July 2019 - February 2020 (8 months)  
+July 2019 - February 2020
 Rio de Janeiro, Brazil
 - Developed web solutions using the latest technologies.
 - Worked on projects like Oi Gameplay and Tim Games PC.
 
 **Liq**  
 *Back End Developer*  
-August 2018 - July 2019 (1 year)  
+August 2018 - July 2019
 Rio de Janeiro, Brazil
 - Responsible for developing IVRs (Interactive Voice Response systems) and maintaining new functionalities for telecommunications companies.
 
