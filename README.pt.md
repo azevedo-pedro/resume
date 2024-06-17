@@ -29,7 +29,9 @@ Olá! Sou Pedro Azevedo, um desenvolvedor Frontend experiente com forte foco em 
 
 **Conquistas Chave:**
 
-- **Desenvolvimento Cross-Platform:** Implementação de soluções React Native, alcançando uma base de código unificada para plataformas iOS e Android, resultando em economia significativa de tempo e custos.
+Responsável pelo desenvolvimento do microfrontend em React Native para o Super App de uma grande empresa do ramo varejista. Arquitetei e desenvolvi todo o onboarding do usuário para a criação de um novo cartão, incluindo integração com bibliotecas de reconhecimento facial.
+
+O projeto foi implementado com Atomic Design para facilitar a reutilização dos componentes. Realizei testes unitários com RTL (React Testing Library) e testes E2E com Detox. A utilização de microfrontend permitiu que o projeto fosse desenvolvido e integrado como uma biblioteca de React Native.
 
 ---
 
