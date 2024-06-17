@@ -32,6 +32,7 @@ Greetings! I'm Pedro Azevedo, a seasoned Frontend Developer with a strong focus 
 Responsible for developing the React Native microfrontend for the Super App of a major retail company. I architected and developed the entire user onboarding flow for creating a new card, including integration with facial recognition libraries.
 
 The project was implemented using Atomic Design to facilitate component reuse. I conducted unit tests with RTL (React Testing Library) and end-to-end tests with Detox. The use of microfrontend allowed the project to be developed and integrated as a React Native library.
+
 ---
 
 **Continuous Learning:**
